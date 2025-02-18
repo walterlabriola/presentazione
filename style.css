@@ -1,0 +1,32 @@
+h1{
+    font-style: oblique;
+}
+
+body{
+
+    font-size: 110%;
+    background-color: rgb(252, 112, 5);
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.title{
+    color: aliceblue;
+    background-color: rgb(62, 60, 60);
+}
+
+.immagine{
+    width: 200px;
+    height: 200px;
+    text-align: 60;
+
+}
+.logo{
+
+    width: 700px;
+    height: 200px
+}
+div{
+    text-align: center;
+}
